@@ -1,34 +1,35 @@
 ![EruditeWBT brand mark](brand.svg)
 
-# Tech Community and Civilization Graph
+# Civilization Graph
 
-> See how knowledge, work, and human systems connect.
+> Explore the connections shaping knowledge and civilization.
 
 ## The Opportunity
 
-A welcoming learning community and living map of the relationships between occupations, fields, skills, projects, and the systems people depend on. It helps people understand where a subject fits and what it can lead to.
+Civilization Graph is the knowledge map behind the EruditeWBT Tech Community. It shows how occupations, fields, skills, technologies, and projects relate, helping people see the larger systems around their work and discover paths between areas of knowledge.
 
 ## Who It Serves
 
-Learners, educators, builders, and people exploring a new field or direction.
+Learners, educators, builders, and people exploring how professions and knowledge fit together.
 
 ## What It Makes Possible
 
-- Explore relationships between fields, occupations, knowledge, and projects
-- Move from an interest to a guided learning or project path
-- Find ways to contribute and show what you can do
+- Explore connections between occupations, fields, knowledge, and projects
+- See how different parts of technology and society relate
+- Use connected paths to guide learning and project exploration
 
 ## How People Use It
 
-1. Choose an interest, occupation, or question.
-2. Follow related ideas and suggested paths.
-3. Join a project track and turn exploration into practical evidence.
+1. Choose a field, occupation, or topic.
+2. Explore the ideas and paths connected to it.
+3. Use the Tech Community to continue learning or take part in a project.
 
 ## How It Connects
 
-- The community introduces the wider EruditeWBT ecosystem; the Civilization Graph gives it a navigable map.
+- Powers the knowledge-map experience of the EruditeWBT Tech Community.
+- Connects community learning and project exploration to a wider view of occupations, skills, and human systems.
 
 ## Explore
 
 - [Official project repository](https://github.com/eruditewbt/civilization-graph)
-- [EruditeWBT learning community](https://github.com/eruditewbt/Tech_Community_by_EruditeWBT)
+- [EruditeWBT](https://github.com/eruditewbt/eruditewbt)
