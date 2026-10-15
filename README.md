@@ -1,47 +1,34 @@
-# civilization-graph
+![EruditeWBT brand mark](brand.svg)
 
 # Tech Community and Civilization Graph
 
-**Brand:** EruditeWBT  
-**Department:** Community And Knowledge  
-**Status:** `documented-in-workspace`
+> See how knowledge, work, and human systems connect.
 
-## Overview
+## The Opportunity
 
-A learning community and interactive map that connects occupations, fields, skills, projects, and the systems that shape modern life.
+A welcoming learning community and living map of the relationships between occupations, fields, skills, projects, and the systems people depend on. It helps people understand where a subject fits and what it can lead to.
 
-## Who It Is For
+## Who It Serves
 
-Learners, educators, non-technical professionals, builders, and people exploring how fields connect.
+Learners, educators, builders, and people exploring a new field or direction.
 
-## Capabilities
+## What It Makes Possible
 
-- Explore an occupation-centered civilization graph
-- Follow engineering and learning branches
-- Connect skills to tools, projects, proof of work, and opportunity
-- Use community guides and project tracks to participate
+- Explore relationships between fields, occupations, knowledge, and projects
+- Move from an interest to a guided learning or project path
+- Find ways to contribute and show what you can do
 
-## How To Use It
+## How People Use It
 
-1. Start at the guided entry page
-2. Read the graph guide before exploring large maps
-3. Choose a project track and publish a small proof of work
+1. Choose an interest, occupation, or question.
+2. Follow related ideas and suggested paths.
+3. Join a project track and turn exploration into practical evidence.
 
-For exact installation steps, supported features, account requirements, and troubleshooting, follow the linked source documentation below. Where those links are not available yet, this page marks the gap instead of inventing product behavior.
+## How It Connects
 
-## Links
+- The community introduces the wider EruditeWBT ecosystem; the Civilization Graph gives it a navigable map.
 
-- Canonical repository: https://github.com/eruditewbt/Tech_Community_by_EruditeWBT
-- Source project: `generated_content/Tech_Community_by_EruditeWBT`
-- Deployed applications:
-- [https://eruditewbt.github.io/Tech_Community_by_EruditeWBT/](https://eruditewbt.github.io/Tech_Community_by_EruditeWBT/)
-- [https://eruditewbt.github.io/Tech_Community_by_EruditeWBT/graph.html](https://eruditewbt.github.io/Tech_Community_by_EruditeWBT/graph.html)
+## Explore
 
-## Source Documentation
-
-- [README.md](../../../../../generated_content/Tech_Community_by_EruditeWBT/README.md)
-- [README.md](../../../../../generated_content/Tech_Community_by_EruditeWBT/civilization_graph/README.md)
-
-## Catalog Maintenance
-
-Edit `portfolio_catalog/catalog.json` and run `python tools/build_project_catalog.py` to rebuild this page and its department indexes. Confirm repository ownership, product capabilities, installation steps, and deployment URLs before changing this project's status to `verified`.
+- [Official project repository](https://github.com/eruditewbt/civilization-graph)
+- [EruditeWBT learning community](https://github.com/eruditewbt/Tech_Community_by_EruditeWBT)
